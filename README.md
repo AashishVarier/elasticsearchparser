@@ -1,4 +1,5 @@
-# elasticsearchparser
+# elasticsearchparser 
+- An alert module using elasticsearch as DB
 - Process data according to a set interval  in elasticsearch and send out mail according to parsed data.
 - Functionality
 	1. Connect to elasticsearch
